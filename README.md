@@ -1,4 +1,4 @@
-# tensorflow-sd-pggan
+# SD-PGGAN (Tensorflow)
 
 ### 목표 : disentangled representation을 학습하면서 좋은 퀄리티의 고해상도 3D MRI를 생성하는 모델
 
